@@ -1,4 +1,3 @@
-# National-Staff-Management-System-Backend-Laravel-Supabase-
 # National Staff Management System
 
 Laravel 12 REST API + React frontend that replaced a legacy PHP system to centralize
